@@ -1,4 +1,4 @@
-## Interactive Ratings Component ![Status badge](https://img.shields.io/badge/status-Finished-green)
+## QR-Component-main![Status badge](https://img.shields.io/badge/status-Finished-green)
 ⚡️ Desarrolle este proyecto con el proposito de reforzar conocimientos en HTML, CSS BEM y Flexbox   .
 
 ✨ Este proyecto es un challenge de [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
