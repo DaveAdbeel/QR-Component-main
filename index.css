@@ -3,7 +3,7 @@
 :root {
     --White: hsl(0, 0%, 100%);
     --Light-gray: hsl(212, 45%, 89%);
-    --Grayish-blue: hsl(220, 15%, 55%);
+    --Grayish-blue: hsl(218, 12%, 57%);
     --Dark-blue: hsl(218, 44%, 22%);
 }
 
@@ -37,6 +37,7 @@ body {
     border-radius: 25px;
     background-color: var(--White);
     margin-bottom:30px ;
+    box-shadow: 0 1.5rem 3rem 0px var(--Grayish-blue);
 }
 
 
@@ -54,12 +55,11 @@ body {
 
 
 .Card__content{
-    padding: 20px;
+    padding: 15px 20px 15px 20px;
     border-radius: 15px;
     height: 40%;
     border-radius: 15px;
     display: flex;
-    justify-content: space-around;
     flex-direction: column;
     text-align: center;
 }
@@ -74,4 +74,5 @@ body {
     font-weight:normal;
     font-size: 1.6rem;
     color: var(--Grayish-blue);
+    margin-top: 25px;
 }
